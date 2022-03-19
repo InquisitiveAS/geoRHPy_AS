@@ -13,3 +13,14 @@ Architectural Geometry(SubAssembly Fabrication)
 Assembly Drawing Layout Templating and Drawing Automation
 
 AutoDimensioning of 3D Geometry
+
+
+COPYRIGHT & LICENSING
+**********************
+
+Please include in your code
+
+__copyright__ = "Abhishek Shinde"
+__contact__ = "arabhishek1091@gmail.com"
+
+Buy me a Bitcoin or Dogecoin 🧘‍♂️ 
