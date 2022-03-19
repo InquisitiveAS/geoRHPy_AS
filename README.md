@@ -5,14 +5,16 @@ There are also some grasshopper scripts / workflows which pairs with the Python 
 Integration of recent Development from McNeel team like Rhino Inside Revit, Rhino Compute and CPython has also been displayed in this repository
 
 
-FILE  USAGE DESCRIPTION
-***********************
+APPLICATION
+***********
 
 Architectural Geometry(SubAssembly Fabrication)
 
 Assembly Drawing Layout Templating and Drawing Automation
 
 AutoDimensioning of 3D Geometry
+
+(Will add more as I progress)
 
 
 COPYRIGHT & LICENSING
