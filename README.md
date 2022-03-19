@@ -7,3 +7,9 @@ Integration of recent Development from McNeel team like Rhino Inside Revit, Rhin
 
 FILE  USAGE DESCRIPTION
 ***********************
+
+Architectural Geometry(SubAssembly Fabrication)
+
+Assembly Drawing Layout Templating and Drawing Automation
+
+AutoDimensioning of 3D Geometry
