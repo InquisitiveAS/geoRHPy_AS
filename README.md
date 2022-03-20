@@ -14,6 +14,8 @@ Assembly Drawing Layout Templating and Drawing Automation
 
 AutoDimensioning of 3D Geometry
 
+DataStructure and Algorithms 
+
 (Will add more as I progress)
 
 
