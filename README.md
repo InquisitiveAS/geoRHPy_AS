@@ -1,9 +1,12 @@
 BACKGROUND
 ***********
 
-This repository is aimed towards Rhinoceros3D modeling Software
-Custom Python Components and/or Grasshopper Scripts combined with Python are written, which have potential application for Data Management, Geometry Data Management
-Digital Fabrication Workflows using RhinoCommon API. Note: There are also some grasshopper scripts / workflows which pairs with the Python Components or External Python files. Integration of recent RhinoSDK Development from McNeel team like Rhino Inside Revit, Rhino Compute,etc will also be demonstrated in the reposiotry
+This repository is aimed towards Rhinoceros3D  - CAD  modeling software.
+Custom Python files and Grasshopper Scripts combined with Python files are included in this repository
+These have potential application for Data Management, Geometry Data Management and Digital Fabrication Workflows using RhinoCommon API and Rhino.Python.
+
+Note: There are also some grasshopper scripts / workflows which pairs with the Python Components or External Python files. 
+Integration of recent Rhino Developments from McNeel team like Rhino Inside Revit, Rhino Compute,etc will also be demonstrated in the reposiotry
 
 
 APPLICATION
