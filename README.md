@@ -16,6 +16,8 @@ AutoDimensioning of 3D Geometry
 
 DataStructure and Algorithms 
 
+Graph Based Workflows for Architectural Geometries
+
 (Will add more as I progress)
 
 
