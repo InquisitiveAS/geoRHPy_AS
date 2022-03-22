@@ -1,6 +1,7 @@
 """
 author = "ashinde"
 copyright = "Island Consolidated LLC"
+contact = "arabhishek1091@gmail.com"
 date_created = "08032021"
 
 This script combines StoryPole tickets for Facade SubAssembly Fabrication with PNL tickets from the subcontractors
