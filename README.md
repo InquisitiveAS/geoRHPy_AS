@@ -33,6 +33,7 @@ COPYRIGHT & LICENSING
 Please include in your code and for usage please contact me
 
 __copyright__ = "Abhishek Shinde"
+
 __contact__ = "arabhishek1091@gmail.com"
 
 Buy me a Bitcoin or Dogecoin 🧘‍♂️ 
