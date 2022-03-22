@@ -9,7 +9,7 @@ Digital Fabrication Workflows using RhinoCommon API. Note: There are also some g
 APPLICATION
 ***********
 
-Architectural Geometry(SubAssembly Fabrication)
+Architectural Geometry(SubAssembly Fabrication for Facades)- (In progress!)
 
 Assembly Drawing Layout Templating and Drawing Automation
 
