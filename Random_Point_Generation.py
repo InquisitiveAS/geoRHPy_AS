@@ -1,3 +1,10 @@
+__author__ = "Abhishek Shinde"
+__copyright__ = "arabhishek1091@gmail.com"
+
+"""
+A function which generate random Points along X  and Y axis
+"""
+
 import rhinoscriptsyntax as rs
 import random as rnd
 
