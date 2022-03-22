@@ -14,7 +14,7 @@ Assembly Drawing Layout Templating and Drawing Automation
 
 AutoDimensioning of 3D Geometry
 
-DataStructure and Algorithms 
+DataStructure and Algorithms in Python
 
 Graph Based Workflows for Architectural Geometries (In progress!)
 
