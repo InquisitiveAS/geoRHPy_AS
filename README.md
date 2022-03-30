@@ -24,6 +24,8 @@ Graph Based Workflows for Architectural Geometries (In progress!)
 
 Point Cloud Processing for Reality Capture(In progress!)
 
+File and Directory Workflows(In progress!)
+
 (Will add more as I progress)
 
 
