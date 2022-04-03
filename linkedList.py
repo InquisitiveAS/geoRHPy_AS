@@ -3,7 +3,7 @@ __copyright__ = "EXDAS"
 __contact__ = "arabhishek1091@gmail.com"
 
 """
-Simple Linked List
+Simple Linked List using Node class
 The Linked List are referenced to each other with attribute "next"
 class Node is used to demonstrate a Simple Linked List
 All values in Linked List are referenced with "head" 
