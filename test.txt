@@ -1,0 +1,2 @@
+Text file was opened successfully and data to write is:
+GH told me to execute this
