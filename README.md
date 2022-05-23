@@ -1,8 +1,8 @@
 ![image](https://drive.google.com/uc?export=view&id=1d56iDf8d4U-FVWdfzsx-ODAA7CtK7s6g)
 
 
-COMPUTATIONAL DESIGN & GEOMETRY PACKAGE IN PYTHON
-==================================================
+COMPUTATIONAL DESIGN &  DATA MANAGEMENT PACKAGE IN PYTHON
+=======================================================
 
 
 BACKGROUND
