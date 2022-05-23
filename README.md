@@ -1,4 +1,4 @@
-![alt text](https://drive.google.com/file/d/1d56iDf8d4U-FVWdfzsx-ODAA7CtK7s6g/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=<1d56iDf8d4U-FVWdfzsx-ODAA7CtK7s6g>)
 
 
 
