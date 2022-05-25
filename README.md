@@ -1,4 +1,3 @@
-![image](https://drive.google.com/uc?export=view&id=1d56iDf8d4U-FVWdfzsx-ODAA7CtK7s6g)
 ![image](https://drive.google.com/uc?export=view&id=1S5OdxS-TK-Ylx5xsAUYk4IqusQGLo-k2)
 
 COMPUTATIONAL DESIGN  AND SOFTWARE DEVELOPMENT PROJECTS IN PYTHON 3.0
