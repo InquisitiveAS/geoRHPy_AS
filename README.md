@@ -18,21 +18,14 @@ Integration of recent Rhino Developments from McNeel team like Rhino Inside Revi
 APPLICATION
 ------------
 
-- Architectural Geometry(SubAssembly Fabrication for Facades)- (In progress!)
-
-- Assembly Drawing Layout Templating and Drawing Automation
-
-- AutoDimensioning of 3D Geometry (In progress!)
-
-- DataStructure and Algorithms in Python Nanodegree Program (Udacity!)
-
-- Graph Based Workflows for Architectural Geometries (In progress!)
-
-- Point Cloud Processing for Reality Capture(In progress!)
-
-- File and Directory Workflows(In progress!)
-
-- (Will add more as I progress)
+* Architectural Geometry(SubAssembly Fabrication for Facades)- (In progress!)
+* Assembly Drawing Layout Templating and Drawing Automation
+* AutoDimensioning of 3D Geometry (In progress!)
+* DataStructure and Algorithms in Python Nanodegree Program (Udacity!)
+* Graph Based Workflows for Architectural Geometries (In progress!)
+* Point Cloud Processing for Reality Capture(In progress!)
+* File and Directory Workflows(In progress!)
+* (Will add more as I progress)
 
 
 COPYRIGHT & LICENSING
