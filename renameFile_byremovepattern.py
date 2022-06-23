@@ -4,6 +4,7 @@ __contact__ = "arabhishek1091@gmail.com | ashinde@islandcompanies.com"
 
 """
 GOAL OF THE SCRIPT:Rename DXF for Facade Sub-assemblies received from subcontractors.
+
 Batch Replace a string of characters from File Name's inside a folder ie Batch Renaming Files in Python
 This is useful for renaming the DXF,DWG,PDF,STP,etc
 
@@ -15,7 +16,8 @@ This script will be integrated inside another Python Script for FRM Member Drawi
 
 import os
 
-folderpath = "C:\\Users\\ashinde\\OneDrive - Island International Industries\\Documents\\Abhishek_Shinde_IEF\\Level 9M\\SST\\DXF"
+#Please change the char '\' to '\\' when you change the path
+folderpath = "C:\\Users\\ashinde\\Island International Industries\\NEU - FAB TEAM - General\\On-Hold-Cut-Fins\\REL-NEU-CutFins SW & N\\BPN\\PDF"
 
 filesin_folder = os.listdir(folderpath)
 newfilenames = []
@@ -27,7 +29,7 @@ count = 1
 for f in filesin_folder:
     fn_withpath = os.path.join(folderpath,f)
     #.replace() is where you can change the file name pattern with names
-    nfn = f.replace('_Flat.dxf','.dxf')
+    nfn = f.replace('_FOLDED.pdf','.pdf')
     nfn_withpath = os.path.join(folderpath,nfn)
     originalfilenames_withpath.append(fn_withpath)
     newfilenames.append(nfn)
@@ -38,8 +40,8 @@ for f in filesin_folder:
 
 
 print('\n')
-#print(originalfilenames_withpath)
+print(originalfilenames_withpath)
 print('\n')
-#print(newfilenames_withpath)
+print(newfilenames_withpath)
 
 
