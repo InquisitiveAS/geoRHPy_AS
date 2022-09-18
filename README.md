@@ -1,7 +1,8 @@
 ![image](https://drive.google.com/uc?export=view&id=1S5OdxS-TK-Ylx5xsAUYk4IqusQGLo-k2)
 
-COMPUTATIONAL DESIGN  AND SOFTWARE DEVELOPMENT PROJECTS IN PYTHON 3.0
-======================================================================
+ABOUT
+=====
+Computational design workflows inside Grasshopper3D-Rhinoceros3D using Python and IronPyton
 
 
 BACKGROUND
