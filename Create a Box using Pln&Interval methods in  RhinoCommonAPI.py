@@ -1,3 +1,7 @@
+_author_ = "Abhishek Shinde"
+_copyright_ = "Taubman College of Architecture & Urban Planning | University of Michigan Ann Arbor campus"
+_course_ = "Thesis Capstone MSDMT"
+
 #import Rhino is used for RhinoCommonAPI
 import Rhino
 #import rhinoscriptsyntax is used for RhinoScript based geometry
