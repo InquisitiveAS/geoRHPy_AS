@@ -1,6 +1,8 @@
 __author__ = "Abhishek S Shinde"
 __copyright__ = "EXDAS"
 __contact__ = "arabhishek1091@gmail.com"
+__coauthor__ = "Data Structure and Algorithms: Udacity"
+__topic__ = "Data Structures Introduction - String Manipulation"
 
 def reverse_String(userString):
 
