@@ -1,6 +1,6 @@
 ### Python Scripts (Exercises,Quiz and Questions,Assignments ) from Data_Structures & Algorithms Udacity Nanodegree Program
 
-#### KeY Concepts:
+#### Key Concepts:
 
 1. String Manipulation
 2. Array Manipulation
